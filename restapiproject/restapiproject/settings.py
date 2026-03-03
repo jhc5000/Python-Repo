@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-rx*t%p$(14-9ma)c9y*7)uvxj3p7140f^up#g%ha=c@-72cwe6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["4trcq7-8000.csb.app"]
+ALLOWED_HOSTS = ["4trcq7-8000.csb.app","127.0.0.1"]
 # Source - https://stackoverflow.com/a/70614605
 # Posted by Jaime Ortiz
 # Retrieved 2026-02-22, License - CC BY-SA 4.0
